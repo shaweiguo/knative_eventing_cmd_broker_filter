@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/broker/filter@sha256:4d68a946700f184d594de9ebcd9dbbdde7539595fed3e0c3d401d5ee7e2010b6
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/broker/filter@sha256:fb4d8340421469e7f211c09f707527ed802beb1bd40e5caf5cb986cf51376ec5
 MAINTAINER coder
